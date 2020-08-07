@@ -1,3 +1,3 @@
-[submodule "my-project"]
-    path= my-project
+[submodule "NamakSite/my-project"]
+    path= NamakSite/my-project
     url = git://github.com/fjkiani/himalayan-salt-shop.git
